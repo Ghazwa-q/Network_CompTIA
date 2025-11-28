@@ -1,0 +1,4 @@
+This lab focuses on upgrading the server’s connection from an Ethernet cable to a Fiber Optic link to enhance its performance and network efficiency.
+We are going to use the Cisco Switch. 
+'To help determine which cable to use, examine the port types on the Cisco switch (front side) and the server's fiber optic network card (back side).'
+
